@@ -2,7 +2,7 @@
     echo hi123
     sh 'chmod +x build.sh'
     sh './build.sh'
-    docker login -u thejus7 -p Thaladhoni@7
-    docker tag test thejus7/test
-    docker push thejus7/test
+    docker login -u naveen1104 -p naveen2004
+    docker tag test naveen1104/pipeline2
+    docker push naveen1104/pipeline2
     
